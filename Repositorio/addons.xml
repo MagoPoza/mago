@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.program.mpz.wizard" name="MPZ WIZARD" version="1.1.4" provider-name="Mpz">
+<addon id="plugin.program.mpz.wizard" name="MPZ WIZARD" version="1.1.5" provider-name="Mpz">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
